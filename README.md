@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandaarya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandaarya)](https://github.com/anuraghazra/github-readme-stats)
