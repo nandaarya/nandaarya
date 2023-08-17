@@ -1,13 +1,12 @@
 ### Hi there 👋
 
+I'm Nanda Arya Putra, Collage Student from Indonesia.
+
+- 🔭 I’m currently working on Unemployment :D
+- 🌱 I’m currently learning Android native using Kotlin and cross-platform apps using Flutter
+- 👯 I’m looking for an internship, job recruitment, and collaboration on Android Native or Flutter Projects
+
 <!--
-**nandaarya/nandaarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
