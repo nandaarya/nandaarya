@@ -1,13 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Nanda Arya Putra
 
-I'm Nanda Arya Putra, Collage Student from Indonesia.
+I'm a final-year college student from Indonesia who is currently exploring the fields of **Data Science** and **Machine Learning**. I also have hands-on experience in mobile app development, especially with **Android Native (Kotlin)** and **Flutter**.
 
-- 🔭 I’m currently a cohort in Bangkit 2023 batch 2 program with Mobile Development path.
-- 🌱 I’m currently learning Android native using Kotlin and cross-platform apps using Flutter
-- 👯 I’m looking for an internship, job recruitment, and collaboration on Android Native or Flutter Projects
-- 📫 How to reach me: nandaarya404@gmail.com or https://www.linkedin.com/in/nandaaryaputra/
-- 💬 Ask me about Android native or Flutter
-  
+---
+
+- 🎓 Final-year student actively learning and exploring Data Science and Machine Learning  
+- 🔭 Former cohort member of Bangkit 2023 Batch 2, Mobile Development learning path
+- 🔭 Former mentor of Bangkit 2024 Batch 2, Mobile Development learning path 
+- 💡 Interested in Android Development, Data Science, and Machine Learning  
+- 🌱 Currently learning Data Science, and Machine Learning , and data processing with Python  
+- 👀 Looking for internship or job opportunities in **Android Development**, **Data Science**, or **Machine Learning**  
+- 📫 Reach me at: [nandaarya404@gmail.com](mailto:nandaarya404@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nandaaryaputra/)  
+- 💬 Feel free to ask me anything about Android, Data Science, or Machine Learning!
+
+---
+
+Thanks for visiting my profile! 😊
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
